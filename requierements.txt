@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+nltk
+wordcloud
+urllib3
